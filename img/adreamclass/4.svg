@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="485.61" height="586.645" viewBox="0 0 485.61 586.645">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.093" x2="0.522" y2="-0.263" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f1116"/>
+      <stop offset="1" stop-color="#232426"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_71" data-name="Retângulo 71" width="485.61" height="586.645" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_487" data-name="Grupo 487" transform="translate(185 45)">
+    <g id="Grupo_486" data-name="Grupo 486" transform="translate(-185 -45)" clip-path="url(#clip-path)">
+      <path id="Caminho_834" data-name="Caminho 834" d="M.5,477.969V361.455L263.678.5H413.6V356.566h69.258v121.4H413.6V583.9H272.644V477.969ZM284.049,161.831,142.275,356.566H284.049Z" transform="translate(1.124 1.124)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
